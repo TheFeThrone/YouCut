@@ -1,11 +1,13 @@
 # YouCut
 Youtube video cutter accompanied with prompts
 
-## Installation (can be skipped)
+### Installation (can be skipped - will run in main files)
 - Open folder (un-)install
 - Run install.bat
+  - this will install (if not present) Python 3.10+, pytube library, ffmpeg-python library and FFmpeg
+    - it uses winget and pip install
 
-## Function
+### Function
 - Run YouCut.bat or YouCut.py
 
   <table style="border-collapse: collapse;">
@@ -26,7 +28,7 @@ Youtube video cutter accompanied with prompts
   </tr>
   </table>
 
-## Bug fix (if it doesnt work)
+### Bug fix (if it doesnt work)
 - Open folder pytube_fix
 - Run fix.bat
   - this will replace the original cipher.py file in the pytube library installation folder with the one in the pytube_fix folder
