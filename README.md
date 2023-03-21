@@ -26,7 +26,7 @@ Youtube video cutter accompanied with prompts
   </tr>
   </table>
 
-## Bug fix(if it doesnt work)
+## Bug fix (if it doesnt work)
 - Open folder pytube_fix
 - Run fix.bat
   - this will replace the original cipher.py file in the pytube library installation folder with the one in the pytube_fix folder
